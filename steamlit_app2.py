@@ -57,3 +57,5 @@ if st.button("Predict Price"):
 
     # Display the result
     st.success(f"The predicted price should be: ${price_prediction[0]:,.2f}")
+
+st.write("Built with 💙 by Sahran")
